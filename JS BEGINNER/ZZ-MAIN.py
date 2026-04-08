@@ -1,0 +1,1 @@
+print("https://dev.to/shafspecs/javascript-projects-for-beginners-28gc")
